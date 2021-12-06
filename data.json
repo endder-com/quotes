@@ -1,0 +1,56 @@
+{
+    "quotes": [
+        {
+            "text": "Nothing brings time back",
+            "from": "Anonymous"
+        },
+        {
+            "text": "Talk is cheap. Show me the code.",
+            "from": "Linus Torvalds"
+        },
+        {
+            "text": "The most important property of a program is whether it accomplishes the intention of its user.",
+            "from": "C.A.R. Hoare"
+        },
+        {
+            "text": "Any organisation that designs a system will produce a design whose structure is a copy of the organisation's communication structure",
+            "from": "Robert C. Martin"
+        },
+        {
+            "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+            "from": "Martin Flower"
+        }
+    ],
+    "colors": [
+        {
+          "one": "#EEEEEE",
+          "two": "#00ADB5",
+          "three": "#393E46",
+          "four": "#222831"
+        },
+        {
+          "one": "#6A2C70",
+          "two": "#B83B5E",
+          "three": "#F08A5D",
+          "four": "#F9ED69"
+        },
+        {
+          "one": "#EAEAEA",
+          "two": "#FF2E63",
+          "three": "#252A34",
+          "four": "#08D9D6"
+        },
+        {
+          "one": "#B000B9",
+          "two": "#FF5F7E",
+          "three": "#FFAB4C",
+          "four": "#142F43"
+        },
+        {
+          "one": "#FFF323",
+          "two": "#FFCA03",
+          "three": "#FF5403",
+          "four": "#F90716"
+        }
+      ]
+}
